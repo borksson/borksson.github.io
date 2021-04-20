@@ -1,0 +1,20 @@
+body {
+	background-color: #41414B;
+  	text-align: center;
+  	padding: 50px;
+}
+p,h1,h2,h3 {
+	color: #FBFFF1;
+	position: relative;
+	margin: 5%;
+}
+img {
+	border: 2px solid #E55934;
+}
+a {
+	background-color: #E55934;
+  	box-shadow: 0 5px 0 #D9451C;
+  	color: #FBFFF1;
+  	padding: 0.5em;
+  	text-decoration: none;
+}
